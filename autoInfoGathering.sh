@@ -2,7 +2,7 @@
 echo "Enter Host:"
 read host
 echo "$host Selected"
-echo "Enter path for web content fuzzing list..."
+echo "Enter path for web content fuzzing list... example: /home/user/SecLists/Discovery/Web-Content/raft-medium-directories.txt..."
 read path
 echo "Selected path: "$path"" 
 echo "Scanning host, please wait..."
