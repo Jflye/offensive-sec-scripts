@@ -1,4 +1,4 @@
-## This script will launch python http.server with SSL certificate (generate cert.pem first)
+## This script will launch python http.server with SSL encryption (generate cert.pem first)
 ## openssl req -new -x509 -keyout cert.pem -out cert.pem -days 365 -nodes
 ## Edit script with your local IP
 
