@@ -1,4 +1,4 @@
-These scripts were written to automate some processes during CTF's and pentesting.
+These scripts were written to automate some processes during CTF's, pentesting and for educational purpose.
 ## autoInfoGathering
 - This script automates the information gathering stage with nmap, whatweb, wfuzz and ends with a vulnerability scan with nikto.
 ## imageShell
